@@ -64,5 +64,4 @@
 ### 📊 GitHub Stats:
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=bpgautam2003&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bpgautam2003" alt="GitHub Streak" />
 </div>
