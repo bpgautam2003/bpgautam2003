@@ -3,7 +3,7 @@
 
 ---
 
-- 🔭 I’m currently working on an **AI-powered system to detect deepfake images.**  
+- 🔭 I’m currently working on **Deepfake Detection and Media Authentication Agent.**  
 - 🌱 Exploring the world of **AI/ML.**  
 - 👯 Looking to collaborate on **full-stack, AI, and ML projects.**  
 - 👨‍💻 All my projects live at [**My Portfolio**](https://brahmprakashgautam.vercel.app/). 
