@@ -13,24 +13,6 @@
 
 ---
 
-### 🌐 Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/brahmprakash-gautam-48a812227/" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45" height="45" style="margin-right: 15px;" />
-  </a>
-  <a href="mailto:brahmprakash.gautam03@gmail.com" target="_blank" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="45" height="45" style="margin-right: 15px;" />
-  </a>
-  <a href="https://leetcode.com/bpgautam_03" target="_blank" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="45" height="45" style="margin-right: 15px;" />
-  </a>
-  <a href="https://brahmprakashgautam.vercel.app/" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Website" width="45" height="45" style="margin-right: 15px;" />
-  </a>
-</p>
-
----
-
 ### 🚀 Tools & Technologies I've Used and Learned:
 <p align="left">
   <!-- Programming Languages -->
